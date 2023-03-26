@@ -2,7 +2,7 @@ using UnityEngine;
 using VContainer;
 using VContainer.Unity;
 
-namespace MyGame
+namespace Tutorial
 {
     public class GameLifetimeScope : LifetimeScope
     {

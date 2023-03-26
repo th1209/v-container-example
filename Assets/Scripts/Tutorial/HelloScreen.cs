@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace MyGame
+namespace Tutorial
 {
     public class HelloScreen : MonoBehaviour
     {

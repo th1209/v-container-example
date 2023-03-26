@@ -1,6 +1,6 @@
 using VContainer.Unity;
 
-namespace MyGame
+namespace Tutorial
 {
     public class GamePresenter : IStartable
     {

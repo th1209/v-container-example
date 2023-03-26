@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using VContainer;
 
-namespace MyGame
+namespace Tutorial
 {
     public class HelloWorldService
     {
